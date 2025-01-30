@@ -1,5 +1,7 @@
 # Finite Element Analysis of a Rectangular Block with a Circular Hole
 
+Kindy refer to the attached project PDF (Project Study_FiniteElementAnalysis.pdf) to understand more about Finite Element Analysis.
+
 ## Overview
 This project applies the Finite Element Method (FEM) to analyze the stress and displacement distribution in a rectangular block with a circular hole. The study compares results from a Python-based FEM solver with those from commercial FEA software (Altair HyperWorks).
 
